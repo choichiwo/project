@@ -5,6 +5,13 @@
 ## 자격증
   - ERP물류 2급
   - ERP생산 2급
+  - 데이터분석 준전문가(ADsP) 
+
+## POSTECH,POSCO Completion
+ - Machine Learning technique and R Programming1
+ - Machine Learning technique and R Programming2
+ - Python Programming1
+ - Python Programming2
 
 ## 경력
 * 부사관
