@@ -6,7 +6,7 @@
   - ERP물류 2급
   - ERP생산 2급
   - 데이터분석 준전문가(ADsP) 
-
+  - 한자3급
 ## POSTECH,POSCO Completion
  - Machine Learning technique and R Programming1
  - Machine Learning technique and R Programming2
