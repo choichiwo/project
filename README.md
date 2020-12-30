@@ -48,7 +48,7 @@
 - **내용**: `pandas`, `Numpy`을 사용하여 성별과 나이에 따른 생존을 예측.
 - **결과**: Acurracy 0.80622  681/17,159
 
-:point_right: **Kaggle: Titanic - Machine Learning from Disaster** 
+:point_right: **Kaggle: Cassava Leaf Disease Classification** 
 - **파일**: 카사바_잎사귀_질병_분류.ipynb
 - **기간**: 2020.12.01 - 2020.12.20 
 - **사용언어**: Python
